@@ -5,7 +5,7 @@ Interested in Golang,Node.js, C++, Algorithms Data structures, Distributed syste
 
 reach me at c.arv@yandex.ru
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvpyrna&hide=html,ruby, scss" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvyshka&hide=html,ruby, scss" />
 
 
 <!-- <a href="https://feisky.xyz/about"> -->
