@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi, I'm Arv
-Interested in Coding Golang, C++, Js, Algorithms Data structures, Distributed systems and system programming
+Interested in Golang,Node.js, C++, Algorithms Data structures, Distributed systems and system programming
 
 reach me at c.arv@yandex.ru
 
