@@ -9,7 +9,7 @@ reach me at c.arv@yandex.ru
 
 
 <!-- <a href="https://feisky.xyz/about"> -->
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=arvpyrna&show_icons=true" /> -->
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=arvyshka&show_icons=true" /> -->
 <!-- </a> -->
 <!-- <a href="https://feisky.xyz/about"> -->
 <!-- </a> -->
