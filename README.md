@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hi, I'm Arv
 Interested in Golang/C++, Algorithms Data structures, Distributed systems and system programming
 
