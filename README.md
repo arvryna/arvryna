@@ -1,5 +1,5 @@
 Hi, I'm Arv
-Interested in Golang/C++, Algorithms & Data structures, Distributed systems,Cloud native and system programming.
+Interested in Go/Rust/C++, Algorithms & Data structures, Distributed systems,Cloud native and system programming.
 
 reach me at c.arv@yandex.ru
 
