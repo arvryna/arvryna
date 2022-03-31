@@ -1,8 +1,7 @@
 Hi, I'm Arv
 Interested in Go/C++, Algorithms & Data structures, Distributed systems,Cloud native and system programming.
 
-reach me at c.arv@yandex.ru. I write about Go here: https://t.me/awe_go
-
+reach me at c.arv@yandex.ru. 
 <!-- ## Projects
 * Maintaining [Vugu](https://github.com/vugu/vugu) - Tool for buiding web UIs written in Go, targeting webassembly
 * Built: [Blazer](https://github.com/arvryna/blazer) - Concurrent file-downloader  
