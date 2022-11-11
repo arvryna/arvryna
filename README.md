@@ -4,7 +4,6 @@ Interested in Go/Rust/C++, distributed systems and blockchain / web 3 tech.
 reach me at arv.ryna@gmail.com 
 ## Projects
 * Built: [Blazer](https://github.com/arvryna/blazer) - Concurrent file-downloader
-* Built: [Sled](https://github.com/arvryna/sled) - Time tracker for Geeks!
 * Maintaining [Vugu](https://github.com/vugu/vugu) - Tool for buiding web UIs written in Go, targeting webassembly
 
 <!-- * Contributing: [Pigeomail](https://github.com/requiemofthesouls/pigeomail) - Service that provides securely personal email addresses -->
