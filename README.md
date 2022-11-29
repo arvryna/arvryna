@@ -1,5 +1,4 @@
-Hi, I'm Arv
-Interested in Go/Rust/C++, distributed systems and blockchain / web 3 tech.
+I'm interested in Go/Rust/C++, distributed systems and blockchain / web 3 tech.
 
 reach me at arv.ryna@gmail.com 
 ## Projects
