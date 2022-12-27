@@ -1,6 +1,6 @@
 I'm interested in Go/Rust/C++, distributed systems, blockchain / Web3 tech.
 
-reach me at arv.ryna@gmail.com 
+reach me at c.arv@yandex.ru
 ## Projects
 * Built: [Blazer](https://github.com/arvryna/blazer) - Concurrent file-downloader
 * Maintaining [Vugu](https://github.com/vugu/vugu) - Tool for buiding web UIs written in Go, targeting webassembly
