@@ -1,12 +1,3 @@
 I'm interested in Go/Rust/C++, distributed systems, blockchain / Web3 tech.
 
-reach me at c.arv@yandex.ru
-## Projects
-* Built: [Blazer](https://github.com/arvryna/blazer) - Concurrent file-downloader
-* Maintaining [Vugu](https://github.com/vugu/vugu) - Tool for buiding web UIs written in Go, targeting webassembly
-
-<!-- * Contributing: [Pigeomail](https://github.com/requiemofthesouls/pigeomail) - Service that provides securely personal email addresses -->
-
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvryna&hide=html,ruby, scss" /> -->
-
-
+reach me at: arv.ryna@gmail.com
